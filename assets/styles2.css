@@ -3,7 +3,7 @@
   width: 100%;
   height: auto;
   grid: repeat(5, 1fr) / repeat(4, 2fr);
-  font: bolder 0.9em Arial, sans-serif;
+  font: bolder 2em Arial, sans-serif;
   text-align: center;
 }
 #header {
@@ -37,27 +37,27 @@
   display: grid;
   grid-area: 5/1/6/5;
   background-color: rgb(197, 190, 190);
-  gap: 0.2em;
+  gap: 5px;
   justify-content: space-evenly;
-  padding: 1.2em;
+  padding: 10px;
 }
 .footer-1 {
   grid-area: 5/1/6/2;
   background-color: rgb(247, 237, 237);
-  padding: 0.5em;
+  padding: 12px;
 }
 .footer-2 {
   grid-area: 5/2/6/3;
   background-color: rgb(247, 237, 237);
-  padding: 0.5em;
+  padding: 12px;
 }
 .footer-3 {
   grid-area: 5/3/6/4;
   background-color: rgb(247, 237, 237);
-  padding: 0.5em;
+  padding: 12px;
 }
 .footer-4 {
   grid-area: 5/4/6/5;
   background-color: rgb(247, 237, 237);
-  padding: 0.5em;
+  padding: 12px;
 }
