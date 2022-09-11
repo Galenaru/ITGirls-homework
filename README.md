@@ -1,3 +1,4 @@
 # ITGirls-homework
+
 hello world
-lalala
+This repository was created to store homework and track learning progress :)
